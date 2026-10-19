@@ -1,0 +1,13 @@
+{
+  "files": {
+    "dhbv_core.py": "8e3e92d105944785d0ab0354714405f4aea86006739458f06ba289b71a04fc1e",
+    "expected_data.json": "63bde57a1c4f33c24805e77b03a9b25ccf3be1c2b2dda6eb1c0ccd8ced7c9b3b",
+    "hbv_initial_parameters.json": "2ac78b196c9c70d32e84085fab77d640c6402cd9e314f324456484227e550cb5",
+    "loss_core.py": "6a67ca9569d53d39d45224b5ad460cbc940b88502fb994cbb8ab3da006abd864",
+    "lstm_core.py": "fa1dddfa75a829b6c7207b563ed48ccf1fc8fcd1a74858cf8519b3b1020b0b22",
+    "mclstm_core.py": "d4fa4037f3320c6b184e52458292a4cf66b50d7ab0dcd2321d46f6358503667f",
+    "models.py": "f4b8159870ee0e610e02502ae7536294389a55afeb0f57e248a4fa91b86a9e3e",
+    "runtime.py": "6319e8c6f37177c491f7a6c658b08293a081cd317db6627006e80ccdc02644ba",
+    "train.py": "ce972ca26f080cfebcc040ca8025d08becfa23d9b97beb5cdd340b4a853bd501"
+  }
+}

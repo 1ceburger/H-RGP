@@ -1,0 +1,78 @@
+{
+  "columns": [
+    "rain",
+    "pet",
+    "P_30d",
+    "P_60d",
+    "sof",
+    "if",
+    "bf",
+    "sm",
+    "rain_intensity",
+    "rel_sat",
+    "soil_deficit",
+    "tc_sof",
+    "elev",
+    "slope",
+    "ksat",
+    "poro",
+    "tc_if",
+    "P_90d",
+    "flow_len",
+    "cn",
+    "fc",
+    "wp",
+    "gw_slow",
+    "gw_fast",
+    "reinf",
+    "lon",
+    "lat",
+    "is_raining",
+    "is_saturated"
+  ],
+  "mask": [
+    "rain",
+    "rain_intensity",
+    "rel_sat",
+    "sof",
+    "if",
+    "tc_sof",
+    "slope",
+    "is_raining",
+    "flow_len",
+    "sm",
+    "soil_deficit"
+  ],
+  "reservoir_columns": [
+    "res_level",
+    "delta_level",
+    "res_outflow",
+    "res_in_final",
+    "res_outflow_lag1"
+  ],
+  "required_files": [
+    "grid_features_full.npy",
+    "input_metadata.json",
+    "dates.csv",
+    "static_grid_features.csv",
+    "nodes.csv",
+    "topology.npz",
+    "basin_daily.csv",
+    "reservoir_causal_daily.csv"
+  ],
+  "reference_hashes": {
+    "grid_features_full.npy": "528b265cef8d0cfdd16af0eb4d4b5f9cae5caf25ec747384b4b1aa2dbb0ca0e3",
+    "input_metadata.json": "b62c1b7a4a9b30b78862eb7a457a668e32e0722bec24d098acd70801d6a4b691",
+    "dates.csv": "0c0902fb38809a6a7b13dd536eb53860837a72b336ad68a8242e3625551e499d",
+    "static_grid_features.csv": "d1506b97783a33084b2a9714cbfc101ec1d28b957bf8f99e51482f5a8da837aa",
+    "nodes.csv": "ccc2def0f5802ace16d8a3202cf02169daf17d8c0b1faef548b0423e0493c193",
+    "topology.npz": "d6128ce368d42464041b3048a314b00c49ebd422ee5dcf641bbc16d09bd580fa",
+    "basin_daily.csv": "bfd6fab7c1960b96724d5ac834d8751bd01ddc68d679ddca05e8b566019beb8f",
+    "reservoir_causal_daily.csv": "0dfc7578d54099f554408ef4a5b971bd7874d3de41d9e1277ae6bf5cc98dea35"
+  },
+  "reference_shape": [
+    4933,
+    634,
+    29
+  ]
+}

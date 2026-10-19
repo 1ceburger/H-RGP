@@ -1,0 +1,18 @@
+{
+  "required_files": [
+    "dates.csv",
+    "static_grid_features.csv",
+    "basin_daily.csv",
+    "forcing_dates.csv",
+    "forcing_rain_mm.npy",
+    "forcing_pet_mm.npy"
+  ],
+  "reference_hashes": {
+    "dates.csv": "0c0902fb38809a6a7b13dd536eb53860837a72b336ad68a8242e3625551e499d",
+    "static_grid_features.csv": "d1506b97783a33084b2a9714cbfc101ec1d28b957bf8f99e51482f5a8da837aa",
+    "basin_daily.csv": "bfd6fab7c1960b96724d5ac834d8751bd01ddc68d679ddca05e8b566019beb8f",
+    "forcing_dates.csv": "931ebbdb659868abd56ef4474ca9a5208f1c4085a58f475f932ee2aa90098a3a",
+    "forcing_rain_mm.npy": "530fd691546589f53b2435201a855ffadbf09bf55ee6a2d9ff06c04186ba2279",
+    "forcing_pet_mm.npy": "c76e5bd420b011fa286a304d055b05d36043347de020c35595c07373fb565dbf"
+  }
+}

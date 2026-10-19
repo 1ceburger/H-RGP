@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this implementation, please cite this software and the associated research article when available."
+title: "H-RGP runoff forecasting framework"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Wenshuo
+  - family-names: Yang
+    given-names: Binlin
+  - family-names: Long
+    given-names: Yuannan
+license: MIT
+keywords:
+  - runoff forecasting
+  - differentiable hydrology
+  - reservoir regulation
